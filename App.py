@@ -1,4 +1,8 @@
 import requests
+import dall-e
+
+# Define the input text
+input_text = "A simple text input with a cat image as an example."
 
 # Obtain an API key from DALL-E OpenAI
 api_key = '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'
